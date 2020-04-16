@@ -13,7 +13,7 @@
                                                                    \$$
 This repo contains a Python script to enumerate IP addresses in http X-Forwarded-For field. Can be used to find IP's to bypass 403 restrictions. This script is inspired by and is an updated version of https://github.com/omespino/enumXFF   
 
-##DISCLAIMER
+## DISCLAIMER
 Use at your own risk. Usage might be illegal in certain circumstances.
 Only for educational purposes!
 
