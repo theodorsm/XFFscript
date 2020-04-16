@@ -17,6 +17,9 @@ This repo contains a Python script to enumerate IP addresses in HTTP X-Forwarded
 Use at your own risk. Usage might be illegal in certain circumstances.
 Only for educational purposes!
 
+### TODO:
+- [ ] Reading range from file
+
 # Setup
 
 ```
