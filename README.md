@@ -44,3 +44,6 @@ optional arguments:
   -o OUTPUT, --output OUTPUT
                         If an IP address returns another status code, save IP address to file
 ```
+
+# License
+Licensed using the MIT license. See [LICENSE.md](LICENSE.md)
