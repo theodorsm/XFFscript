@@ -1,4 +1,3 @@
-# XFFscript
 <!-- language: lang-none -->
      __    __  ________  ________                              __             __
     |  \  |  \|        \|        \                            |  \           |  \
@@ -18,13 +17,13 @@ This repo contains a Python script to enumerate IP addresses in http X-Forwarded
 
 ```
 # Recomended to use virtual enviroment to keep your own enviroment clean
-$python3 -m venv venv && source venv/bin/activate
+$ python3 -m venv venv && source venv/bin/activate
 
 $ pip3 install -r requirements.txt
 ```
 
 # Usage
-´´´
+```
 $ python XFFscript.py -h
 usage: XFFscript.py [-h] -t TARGET [-c STATUS_CODE] -r RANGE [-w WORKERS] [-o OUTPUT]
 
@@ -40,5 +39,4 @@ optional arguments:
                         Worker/thread count - default is 100
   -o OUTPUT, --output OUTPUT
                         If an IP address returns another status code, save IP address to file
-
-´´´
+```
