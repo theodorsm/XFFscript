@@ -16,7 +16,6 @@
 
 Github: https://github.com/theodorsm/XFFscript
 inspired by https://github.com/omespino/enumXFF
-Author: theodorsm
 Use at your own risk. Usage might be illegal in certain circumstances.
 Only for educational purposes!
 '''
