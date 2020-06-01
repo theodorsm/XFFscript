@@ -11,14 +11,14 @@
                                                                       | $$
                                                                       | $$
                                                                        \$$
-This repo contains a Python script to enumerate IP addresses in HTTP X-Forwarded-For field, and detect when a choosen status code is not returned. Can be used to find IP's to bypass 403 restrictions. This script is inspired by, and is an updated version of: https://github.com/omespino/enumXFF   
+This repo contains a Python script to enumerate IP addresses in HTTP X-Forwarded-For field, and detect when a choosen status code is NOT returned. Can be used to find IP's to bypass 403 restrictions. This script is inspired by, and is an updated version of: https://github.com/omespino/enumXFF   
 
 ## DISCLAIMER
 Use at your own risk. Usage might be illegal in certain circumstances.
 Only for educational purposes!
 
 ### TODO:
-- [ ] Reading range from file
+- [ ] Reading IP range from file
 
 # Setup
 
